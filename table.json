@@ -1,0 +1,33 @@
+{
+    "tables":
+    [
+        {
+            "size": 10,
+            "color": "green"
+        },
+        {
+            "size": 11,
+            "color": "lightblue"
+        },
+        {
+            "size": 12,
+            "color": "blue"
+        },
+        {
+            "size": 13,
+            "color": "brown"
+        },
+        {
+            "size": 14,
+            "color": "red"
+        },
+        {
+            "size": 16,
+            "color": "grey"
+        },
+        {
+            "size": 18,
+            "color": "teal"
+        }
+    ]
+}
